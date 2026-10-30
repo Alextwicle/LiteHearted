@@ -1,0 +1,5 @@
+{
+  "icon": "spell_engine:container/slots/spell_book",
+  "order": 0,
+  "drop_rule": "drop"
+}
