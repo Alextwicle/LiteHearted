@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    "SLS",
+    "LCL",
+    "SLS"
+  ],
+  "key": {
+    "S": "endrem:witch_pupil",
+    "L": "endrem:undead_soul",
+	"C": "energizedpower:inventory_teleporter"
+  },
+  "result": {
+    "id": "waystones:warp_stone"
+  }
+}
