@@ -1,0 +1,9 @@
+{
+  "type": "nemos_woodcutter:woodcutting",
+  "ingredient": "shroomcraft:orange_shroomwood_planks",
+  "inputCount": 1,
+  "result": {
+    "count": 3,
+    "id": "shroomcraft:orange_shroomwood_sign"
+  }
+}

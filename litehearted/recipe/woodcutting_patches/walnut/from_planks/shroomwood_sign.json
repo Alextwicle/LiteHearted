@@ -1,0 +1,9 @@
+{
+  "type": "nemos_woodcutter:woodcutting",
+  "ingredient": "ecologics:walnut_planks",
+  "inputCount": 1,
+  "result": {
+    "count": 3,
+    "id": "ecologics:walnut_sign"
+  }
+}
