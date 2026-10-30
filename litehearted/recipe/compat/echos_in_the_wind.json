@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "SLS",
+    "LCL",
+    "SLS"
+  ],
+  "key": {
+    "S": "minecraft:note_block",
+    "L": "minecraft:echo_shard",
+	"C": "glideaway:wind_in_a_bottle"
+  },
+  "result": {
+    "id": "glideaway:infinite_wind_in_a_bottle"
+  }
+}

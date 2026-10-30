@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    " L ",
+    "L L",
+    " L "
+  ],
+  "key": {
+    "L": "minecraft:red_sand"
+  },
+  "result": {
+    "id": "betterarcheology:suspicious_red_sand"
+  }
+}

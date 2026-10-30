@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "LSL",
+    "LSL",
+    " S "
+  ],
+  "key": {
+    "S": "eternalnether:withered_bone",
+    "L": "energizedpower:energized_gold_ingot"
+  },
+  "result": {
+    "id": "paladins:aether_great_hammer"
+  }
+}

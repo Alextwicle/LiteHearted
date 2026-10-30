@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "SL ",
+    "S L",
+    "SL "
+  ],
+  "key": {
+    "S": "minecraft:string",
+    "L": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "archers:crystal_shortbow"
+  }
+}
