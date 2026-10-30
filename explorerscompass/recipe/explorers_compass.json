@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "WSW",
+    "SCS",
+    "WSW"
+  ],
+  "key": {
+    "W": "energizedpower:steel_gear",
+    "S": "energizedpower:steel_block",
+    "C": "minecraft:recovery_compass"
+  },
+  "result": {
+    "id": "explorerscompass:explorerscompass"
+  }
+}
