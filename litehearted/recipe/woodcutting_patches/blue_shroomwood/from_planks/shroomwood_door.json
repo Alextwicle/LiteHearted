@@ -1,0 +1,9 @@
+{
+  "type": "nemos_woodcutter:woodcutting",
+  "ingredient": "shroomcraft:blue_shroomwood_planks",
+  "inputCount": 2,
+  "result": {
+    "count": 2,
+    "id": "shroomcraft:blue_shroomwood_door"
+  }
+}
