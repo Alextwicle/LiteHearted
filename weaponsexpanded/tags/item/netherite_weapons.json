@@ -1,0 +1,30 @@
+{
+  "values": [
+    "archers:netherite_spear",
+    "archers:netherite_shortbow",
+    "archers:netherite_longbow",
+    "archers:netherite_rapid_crossbow",
+    "archers:netherite_heavy_crossbow",
+    "farmersdelight:netherite_knife",
+    "paladins:netherite_claymore",
+    "paladins:netherite_great_hammer",
+    "paladins:netherite_mace",
+    "paladins:netherite_holy_wand",
+    "paladins:netherite_holy_staff",
+    "rogues:netherite_dagger",
+    "rogues:netherite_sickle",
+    "rogues:netherite_double_axe",
+    "rogues:netherite_glaive",
+    "ubesdelight:rolling_pin_netherite",
+    "wizards:wand_netherite_arcane",
+    "wizards:wand_netherite_fire",
+    "wizards:wand_netherite_frost",
+    "wizards:staff_netherite_arcane",
+    "wizards:staff_netherite_fire",
+    "wizards:staff_netherite_frost",
+    "paladins:netherite_kite_shield",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_hoe"
+  ]
+}

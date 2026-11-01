@@ -1,0 +1,24 @@
+{
+  "values": [
+    "archers:diamond_spear",
+    "farmersdelight:diamond_knife",
+    "paladins:diamond_claymore",
+    "paladins:diamond_great_hammer",
+    "paladins:diamond_holy_wand",
+    "paladins:diamond_holy_staff",
+    "paladins:diamond_mace",
+    "rogues:diamond_dagger",
+    "rogues:diamond_sickle",
+    "rogues:diamond_double_axe",
+    "rogues:diamond_glaive",
+    "ubesdelight:rolling_pin_diamond",
+    "archers:royal_longbow",
+    "archers:heavy_crossbow",
+    "paladins:diamond_kite_shield",
+    "wizards:staff_crystal_arcane",
+    "wizards:staff_smaragdant_frost",
+    "minecraft:diamond_hoe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel"
+  ]
+}

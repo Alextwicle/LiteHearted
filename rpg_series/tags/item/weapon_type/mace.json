@@ -7,6 +7,13 @@
     "weaponsexpanded:diamond_morningstar",
     "weaponsexpanded:copper_morningstar",
     "weaponsexpanded:netherite_morningstar",
-    "farmersdelight:skillet"
+    "farmersdelight:skillet",
+    "minecraft:wooden_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:copper_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel"
   ]
 }
