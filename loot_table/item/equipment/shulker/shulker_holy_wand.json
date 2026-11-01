@@ -1,0 +1,82 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "paladins:netherite_holy_wand",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "mode": "replace_all",
+              "lore": [
+                " ",
+                {
+                  "translate": "- Consistancy Item -",
+                  "color": "#F96854",
+                  "italic": false
+                },
+                "",
+                {
+                  "translate": "LiteHearted",
+                  "color": "#FF0000",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "stellarity:shulker_holy_wand",
+                "minecraft:custom_data": {
+                  "stellarity.special_item": "shulker_tool",
+                  "stellarity:item": "shulker_holy_wand"
+                },
+                "minecraft:max_damage": 2701,
+                "minecraft:item_name": {
+                  "translate": "Shulker Holy Wand",
+                  "color": "#976A97",
+                  "italic": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:attack_damage",
+                  "id": "minecraft:base_attack_damage",
+                  "amount": 2.5,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:attack_speed",
+                  "id": "minecraft:base_attack_speed",
+                  "amount": -2.4,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                },
+                {
+                  "id": "minecraft:base_attack_damage",
+                  "attribute": "minecraft:block_break_speed",
+                  "amount": 0.2,
+                  "operation": "add_multiplied_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "id": "minecraft:base_attack_damage",
+                  "attribute": "minecraft:attack_speed",
+                  "amount": 0.1,
+                  "operation": "add_multiplied_total",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

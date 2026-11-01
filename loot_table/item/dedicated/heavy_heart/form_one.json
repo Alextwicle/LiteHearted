@@ -1,0 +1,87 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mace",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "mode": "replace_all",
+              "lore": [
+                " ",
+                {
+                  "translate": "- Contributer Item -",
+                  "color": "#FF1111",
+                  "italic": false
+                },
+                "",
+                {
+                  "translate": "LiteHearted",
+                  "color": "#FF0000",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "litehearted:heavy_heart_t1",
+                "minecraft:custom_data": {
+                  "litehearted.special_item": "dedicated_weapon",
+                  "stellarity:item": "heavy_heart_t1"
+                },
+                "minecraft:max_damage": 500,
+                "minecraft:item_name": {
+                  "translate": "❤Heavy Heart❤",
+                  "color": "#FF1111",
+                  "italic": false
+                },
+                "minecraft:enchantments": {
+                  "minecraft:wind_burst": 1,
+                  "litehearted:technical/heavy_hearted": 1,
+                  "litehearted:technical/heavy_souled": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:attack_damage",
+                  "id": "minecraft:base_attack_damage",
+                  "amount": 7.0,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:attack_speed",
+                  "id": "minecraft:base_attack_speed",
+                  "amount": -3.0,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                },
+                {
+                  "id": "minecraft:base_attack_damage",
+                  "attribute": "minecraft:block_break_speed",
+                  "amount": 0.2,
+                  "operation": "add_multiplied_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "id": "minecraft:base_attack_damage",
+                  "attribute": "minecraft:attack_speed",
+                  "amount": 0.1,
+                  "operation": "add_multiplied_total",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
