@@ -1,1 +1,4 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"stellarity:item/shulker_fire_staff"}}
+{
+  "parent": "wizards:item/medium_staff",
+  "textures": { "layer0": "stellarity:item/shulker_fire_staff" }
+}
