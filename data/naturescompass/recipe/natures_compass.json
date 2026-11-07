@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "SLS",
+    "LCL",
+    "SLS"
+  ],
+  "key": {
+    "S": "energizedpower:advanced_fertilizer",
+    "L": "energizedpower:sawdust",
+	"C": "minecraft:recovery_compass"
+  },
+  "result": {
+    "id": "naturescompass:naturescompass"
+  }
+}

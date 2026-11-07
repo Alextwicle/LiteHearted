@@ -1,9 +1,0 @@
-{
-  "type": "nemos_woodcutter:woodcutting",
-  "ingredient": "ecologics:walnut_log",
-  "inputCount": 1,
-  "result": {
-    "count": 1,
-    "id": "ecologics:stripped_walnut_log"
-  }
-}

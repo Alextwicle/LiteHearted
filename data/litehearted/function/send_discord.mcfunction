@@ -1,0 +1,2 @@
+#Sends the discord link
+tellraw @a {"text":"Consider Joining The LiteHeared Discord (Clickable)","color":"#589CF2","bold":false,"click_event": {"action": "open_url","url": "https://discord.gg/9wHqFgdwPm"},"hover_event": {"action": "show_text","value":{"text":"Click to visit"}}}

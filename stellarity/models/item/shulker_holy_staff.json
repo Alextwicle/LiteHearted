@@ -1,4 +1,0 @@
-{
-  "parent": "paladins:item/base/staff_24",
-  "textures": { "layer0": "stellarity:item/shulker_holy_staff" }
-}

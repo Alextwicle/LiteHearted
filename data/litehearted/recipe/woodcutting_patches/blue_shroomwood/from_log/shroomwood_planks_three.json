@@ -1,0 +1,9 @@
+{
+  "type": "nemos_woodcutter:woodcutting",
+  "ingredient": "shroomcraft:stripped_blue_mushroom_hyphae",
+  "inputCount": 1,
+  "result": {
+    "count": 4,
+    "id": "shroomcraft:blue_shroomwood_planks"
+  }
+}

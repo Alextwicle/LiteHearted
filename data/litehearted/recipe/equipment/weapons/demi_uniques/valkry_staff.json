@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    " CL",
+    " SC",
+    "D  "
+  ],
+  "key": {
+    "S": "eternalnether:withered_bone",
+    "L": "jewelry:sapphire",
+    "C": "energizedpower:energized_gold_ingot",
+    "D": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "wizards:aether_wizard_staff"
+  }
+}

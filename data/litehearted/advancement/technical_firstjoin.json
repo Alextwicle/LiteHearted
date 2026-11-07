@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "died": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "litehearted:firstjoin"
+  }
+}

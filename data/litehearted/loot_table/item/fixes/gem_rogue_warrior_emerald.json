@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "armory_rpgs:champion_forgotten_upgrade_crystal"
+        }  
+      ]
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "type": "nemos_woodcutter:woodcutting",
-  "ingredient": "betterarcheology:rotten_log",
-  "inputCount": 1,
-  "result": {
-    "count": 4,
-    "id": "betterarcheology:rotten_planks"
-  }
-}

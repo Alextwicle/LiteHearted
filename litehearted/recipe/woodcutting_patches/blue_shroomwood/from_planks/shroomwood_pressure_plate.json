@@ -1,9 +1,0 @@
-{
-  "type": "nemos_woodcutter:woodcutting",
-  "ingredient": "shroomcraft:blue_shroomwood_planks",
-  "inputCount": 1,
-  "result": {
-    "count": 4,
-    "id": "shroomcraft:blue_shroomwood_pressure_plate"
-  }
-}

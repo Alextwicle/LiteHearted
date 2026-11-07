@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "OOO",
+    "OCO",
+    "OOO"
+  ],
+  "key": {
+    "O": "betterarcheology:artifact_shards",
+    "C": "minecraft:glistering_melon_slice"
+  },
+  "result": {
+    "id": "relics_rpgs:lesser_use_health"
+  }
+}

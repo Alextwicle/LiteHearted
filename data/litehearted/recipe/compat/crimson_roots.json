@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:nether_wart_block"
+  ],
+  "result": {
+    "id": "minecraft:crimson_roots",
+    "count": 9
+  }
+}

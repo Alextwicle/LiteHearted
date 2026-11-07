@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    " CL",
+    " SC",
+    "D  "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "L": "jewelry:jade",
+    "C": "minecraft:diamond",
+    "D": "energizedpower:tin_ingot"
+  },
+  "result": {
+    "id": "wizards:staff_smaragdant_frost"
+  }
+}

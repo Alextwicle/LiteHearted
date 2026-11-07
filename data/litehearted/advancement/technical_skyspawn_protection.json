@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "died": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "fatal": true
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "litehearted:skyspawn_prot"
+  }
+}

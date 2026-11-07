@@ -1,0 +1,58 @@
+{
+  "description": {
+    "translate": "Heavy Souled"
+  },
+  "supported_items": "minecraft:mace",
+  "weight": 2,
+  "max_level": 3,
+  "min_cost": {
+    "base": 29,
+    "per_level_above_first": 4
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "enchanted": "this",
+        "affected": "this",
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "litehearted:hh_dj_check"
+        },
+        "requirements": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "flags": {
+              "is_on_ground": false
+            }
+          }
+        }
+      },
+      {
+        "enchanted": "this",
+        "affected": "this",
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "litehearted:hh_dj_floor"
+        },
+        "requirements": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "flags": {
+              "is_on_ground": true
+            }
+          }
+        }
+      }
+    ]
+  }
+}

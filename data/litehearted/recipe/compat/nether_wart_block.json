@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": "minecraft:crimson_roots"
+  },
+  "result": {
+    "id": "minecraft:nether_wart_block"
+  }
+}

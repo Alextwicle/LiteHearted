@@ -1,0 +1,9 @@
+{
+  "type": "nemos_woodcutter:woodcutting",
+  "ingredient": "inferno:stripped_shining_oak_wood",
+  "inputCount": 1,
+  "result": {
+    "count": 4,
+    "id": "inferno:shining_oak_planks"
+  }
+}

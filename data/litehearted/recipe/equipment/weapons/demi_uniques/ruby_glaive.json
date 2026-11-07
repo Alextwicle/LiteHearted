@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "LL ",
+    " S ",
+    "S  "
+  ],
+  "key": {
+    "S": "eternalnether:withered_bone",
+    "L": "jewelry:ruby"
+  },
+  "result": {
+    "id": "rogues:ruby_glaive"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "SLS",
+    "LCL",
+    "SLS"
+  ],
+  "key": {
+    "S": "energizedpower:energized_gold_ingot",
+    "L": "energizedpower:steel_ingot",
+	"C": "minecraft:diamond"
+  },
+  "result": {
+    "id": "jewelry:socket_mount"
+  }
+}

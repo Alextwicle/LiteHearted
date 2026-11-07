@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "friendsandfoes:wildfire_crown_fragment",
+    "jewelry:citrine"
+  ],
+  "result": {
+    "id": "jewelry:citrine"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "group": "equipment",
+  "pattern": [
+    "   ",
+    "B B",
+    "B B"
+  ],
+  "key": {
+    "B": "eternalnether:withered_bone"
+  },
+  "result": {
+    "id": "immersive_armors:wither_boots"
+  }
+}

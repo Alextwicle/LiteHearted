@@ -1,0 +1,7 @@
+{
+  "values": [
+    "minecraft:shield",
+    "eternalnether:gilded_netherite_shield",
+    "#rpg_series:weapon_type/shield"
+  ]
+}

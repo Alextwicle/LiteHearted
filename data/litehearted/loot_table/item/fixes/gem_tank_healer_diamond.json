@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "armory_rpgs:redeemer_upgrade_crystal"
+        }  
+      ]
+    }
+  ]
+}

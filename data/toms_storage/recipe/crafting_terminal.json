@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    "MDM",
+    "DCD",
+    "MDM"
+  ],
+  "key": {
+    "C": "toms_storage:storage_terminal",
+    "D": "minecraft:diamond",
+    "M": "minecraft:crafter"
+  },
+  "result": {
+    "id": "toms_storage:crafting_terminal"
+  }
+}

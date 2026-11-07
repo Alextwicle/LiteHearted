@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "armory_rpgs:conqueror_upgrade_crystal"
+        }  
+      ]
+    }
+  ]
+}

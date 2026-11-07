@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    "BBB",
+    "BCB",
+    "RDR"
+  ],
+  "key": {
+    "C": "minecraft:crafting_table",
+    "R": "minecraft:redstone",
+    "D": "minecraft:dropper",
+    "B": "energizedpower:steel_ingot"
+  },
+  "result": {
+    "id": "minecraft:crafter"
+  }
+}

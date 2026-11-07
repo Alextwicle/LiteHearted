@@ -1,9 +1,0 @@
-{
-  "type": "nemos_woodcutter:woodcutting",
-  "ingredient": "ecologics:azalea_planks",
-  "inputCount": 1,
-  "result": {
-    "count": 1,
-    "id": "ecologics:azalea_fence"
-  }
-}

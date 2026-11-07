@@ -1,0 +1,20 @@
+{
+  "values": [
+    "weaponsexpanded:wooden_halberd",
+    "weaponsexpanded:stone_halberd",
+    "weaponsexpanded:iron_halberd",
+    "weaponsexpanded:golden_halberd",
+    "weaponsexpanded:diamond_halberd",
+    "weaponsexpanded:copper_halberd",
+    "weaponsexpanded:netherite_halberd",
+    "rogues:stone_double_axe",
+    "rogues:iron_double_axe",
+    "rogues:golden_double_axe",
+    "rogues:diamond_double_axe",
+    "rogues:netherite_double_axe",
+    "arsenal:unique_double_axe_sw",
+    "arsenal:unique_double_axe_2",
+    "arsenal:unique_double_axe_1",
+    "illagerinvasion:platinum_infused_hatchet"
+  ]
+}

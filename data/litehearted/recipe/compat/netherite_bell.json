@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    "LLL",
+    "SCS",
+    "S S"
+  ],
+  "key": {
+    "S": "minecraft:netherrack",
+    "L": "#minecraft:logs",
+	"C": "minecraft:netherite_block"
+  },
+  "result": {
+    "id": "eternalnether:netherite_bell"
+  }
+}

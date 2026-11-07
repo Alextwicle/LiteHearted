@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "equipment",
+  "pattern": [
+    "IBI",
+    "B B",
+    "I I"
+  ],
+  "key": {
+    "B": "energizedpower:steel_block",
+    "I": "energizedpower:steel_ingot"
+  },
+  "result": {
+    "id": "immersive_armors:heavy_leggings"
+  }
+}
