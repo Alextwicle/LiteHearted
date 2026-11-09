@@ -1,6 +1,3 @@
-#Enable instant respawn, this is essential for skyspawn protection to work
-gamerule immediate_respawn true
-
 #Create skyspawn protection scoreboard
 scoreboard objectives add skyspawn_prot deathCount skyspawn_prot
 
