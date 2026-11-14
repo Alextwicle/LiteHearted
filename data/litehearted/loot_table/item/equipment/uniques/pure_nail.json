@@ -38,7 +38,10 @@
                   "translate": "Pure Nail",
                   "color": "#0000FF",
                   "italic": false
-                }
+                },
+                "minecraft:enchantments": {
+                  "litehearted:technical/pogo": 1 
+                }  
               }
             },
             {

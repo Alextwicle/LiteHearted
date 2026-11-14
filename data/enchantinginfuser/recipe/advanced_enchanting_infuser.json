@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    " B ",
+    "ACA",
+    "CTC"
+  ],
+  "key": {
+    "A": "minecraft:netherite_ingot",
+    "T": "enchantinginfuser:enchanting_infuser",
+    "C": "minecraft:crying_obsidian",
+    "B": "minecraft:dragon_head"
+  },
+  "result": {
+    "id": "enchantinginfuser:advanced_enchanting_infuser"
+  }
+}

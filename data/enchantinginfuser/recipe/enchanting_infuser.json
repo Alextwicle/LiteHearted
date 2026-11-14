@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    " B ",
+    "ACA",
+    "CTC"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "T": "minecraft:enchanting_table",
+    "C": "minecraft:crying_obsidian",
+    "B": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "enchantinginfuser:enchanting_infuser"
+  }
+}

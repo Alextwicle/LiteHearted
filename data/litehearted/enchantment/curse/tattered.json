@@ -1,0 +1,44 @@
+{
+  "anvil_cost": 1,
+  "description": {
+    "translate": "Tattered"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.05,
+          "per_level_above_first": -0.05
+        },
+        "attribute": "minecraft:armor",
+        "id": "litehearted:tattered_one",
+        "operation": "add_multiplied_base"
+      },
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.05,
+          "per_level_above_first": -0.05
+        },
+        "attribute": "minecraft:armor_toughness",
+        "id": "litehearted:tattered_two",
+        "operation": "add_multiplied_base"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 12,
+    "per_level_above_first": 11
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 11
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#minecraft:enchantable/armor",
+  "weight": 10
+}

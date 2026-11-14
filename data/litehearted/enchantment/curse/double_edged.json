@@ -1,0 +1,42 @@
+{
+  "description": "Double Edged",
+  "supported_items": "#minecraft:enchantable/weapon",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 20
+  },
+  "max_cost": {
+    "base": 65,
+    "per_level_above_first": 20
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "any"
+  ],
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "effect": {
+          "type": "minecraft:apply_mob_effect",
+          "to_apply": "minecraft:instant_damage",
+          "min_duration": {
+            "type": "minecraft:linear",
+            "base": 1,
+            "per_level_above_first": 0
+          },
+          "max_duration": {
+            "type": "minecraft:linear",
+            "base": 1,
+            "per_level_above_first": 0
+          },
+          "min_amplifier": 0,
+          "max_amplifier": 0
+        },
+        "enchanted": "attacker",
+        "affected": "attacker"
+      }
+    ]
+  }
+}

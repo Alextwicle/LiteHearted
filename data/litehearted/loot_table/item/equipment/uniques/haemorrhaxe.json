@@ -40,7 +40,7 @@
                   "italic": false
                 },
                 "minecraft:enchantments": {
-                  "minecraft:breach": 4
+                  "litehearted:technical/hematic": 1
                 }
               }
             },

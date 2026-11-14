@@ -1,0 +1,22 @@
+{
+  "skill.skill_tree_rpgs.weapon_axe_root.title": "Specialisation: Cleave",
+  "skill.skill_tree_rpgs.weapon_claymore_root.title": "Specialisation: Flurry",
+  "skill.skill_tree_rpgs.weapon_dagger_root.title": "Specialisation: Fan of Knives",
+  "skill.skill_tree_rpgs.weapon_double_axe_root.title": "Specialisation: Whirlwind",
+  "skill.skill_tree_rpgs.weapon_glaive_root.title": "Specialisation: Thrust",
+  "skill.skill_tree_rpgs.weapon_hammer_root.title": "Specialisation: Ground Slam",
+  "skill.skill_tree_rpgs.weapon_mace_root.title": "Specialisation: Smash",
+  "skill.skill_tree_rpgs.weapon_sickle_root.title": "Specialisation: Swipe",
+  "skill.skill_tree_rpgs.weapon_spear_root.title": "Specialisation: Impail",
+  "skill.skill_tree_rpgs.weapon_sword_root.title": "Specialisation: Swift Strikes",
+  "modifier_condition.skill_tree_rpgs.axe": "While holding an item with cleave:",
+  "modifier_condition.skill_tree_rpgs.claymore": "While holding an item with flurry:",
+  "modifier_condition.skill_tree_rpgs.dagger": "While holding an item with fan of knives:",
+  "modifier_condition.skill_tree_rpgs.double_axe": "While holding an item with whirlwind:",
+  "modifier_condition.skill_tree_rpgs.glaive": "While holding an item with thrust:",
+  "modifier_condition.skill_tree_rpgs.hammer": "While holding an item with ground slam:",
+  "modifier_condition.skill_tree_rpgs.mace": "While holding an item with smash:",
+  "modifier_condition.skill_tree_rpgs.sickle": "While holding an item with swipe:",
+  "modifier_condition.skill_tree_rpgs.spear": "While holding an item with impail:",
+  "modifier_condition.skill_tree_rpgs.sword": "While holding an item with swift strikes:"
+}

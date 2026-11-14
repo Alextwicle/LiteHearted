@@ -1,0 +1,44 @@
+{
+  "anvil_cost": 1,
+  "description": {
+    "translate": "Stubby"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.05,
+          "per_level_above_first": -0.05
+        },
+        "attribute": "minecraft:block_interaction_range",
+        "id": "litehearted:stubby_one",
+        "operation": "add_multiplied_base"
+      },
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.05,
+          "per_level_above_first": -0.05
+        },
+        "attribute": "minecraft:entity_interaction_range",
+        "id": "litehearted:stubby_two",
+        "operation": "add_multiplied_base"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 12,
+    "per_level_above_first": 11
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 11
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#minecraft:enchantable/durability",
+  "weight": 10
+}

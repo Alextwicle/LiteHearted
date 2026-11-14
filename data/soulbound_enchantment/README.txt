@@ -1,0 +1,1 @@
+Soulbound enchantment is property of lullaby6 and subject to their user agreement instead of LiteHearteds, this code is mildly modified from theirs to edit it for LiteHearted
