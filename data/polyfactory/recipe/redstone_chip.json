@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "energizedpower:copper_plate",
+    "g": "minecraft:gold_nugget",
+    "r": "minecraft:redstone"
+  },
+  "pattern": [ "grg", "rcr", "grg" ],
+  "result": { "id": "polyfactory:redstone_chip" }
+}

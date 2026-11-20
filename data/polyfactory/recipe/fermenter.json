@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "redstone",
+  "pattern": [
+    " F ",
+    "BCB",
+    " B "
+  ],
+  "key": {
+    "F": "energizedpower:basic_machine_frame",
+    "C": "minecraft:barrel",
+    "B": "minecraft:smooth_stone_slab"
+  },
+  "result": {
+    "id": "polyfactory:fermenter"
+  }
+}

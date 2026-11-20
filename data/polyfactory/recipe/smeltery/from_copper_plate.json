@@ -1,0 +1,10 @@
+{
+  "type": "polyfactory:smeltery/simple",
+  "group": "minecraft_copper",
+  "input": "energizedpower:copper_plate",
+  "output": {
+    "type": "minecraft:copper",
+    "amount": 9000
+  },
+  "time": 120
+}

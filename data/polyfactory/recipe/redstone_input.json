@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "-": "minecraft:smooth_stone_slab",
+    "c": "minecraft:copper_ingot",
+    "r": "minecraft:redstone",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ "r-r", "srs", "scs" ],
+  "result": { "id": "polyfactory:redstone_input" }
+}

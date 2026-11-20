@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "polyfactory:cable",
+    "r": "polyfactory:redstone_chip",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ " c ", "src", " s " ],
+  "result": { "id": "polyfactory:multimeter" }
+}

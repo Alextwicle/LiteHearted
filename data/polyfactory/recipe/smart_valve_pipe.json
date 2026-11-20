@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "polyfactory:cable",
+    "p": "polyfactory:redstone_valve_pipe",
+    "r": "polyfactory:redstone_chip",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ " c ", "sps", " r " ],
+  "result": { "id": "polyfactory:smart_valve_pipe" }
+}

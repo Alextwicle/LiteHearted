@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "energizedpower:copper_plate",
+    "p": "polyfactory:pipe",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ " c ", "psc", " c " ],
+  "result": { "id": "polyfactory:nozzle" }
+}

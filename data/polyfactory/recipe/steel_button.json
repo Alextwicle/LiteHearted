@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": { "#": "energizedpower:steel_nugget" },
+  "pattern": [ "##", "##" ],
+  "result": { "id": "polyfactory:steel_button" }
+}

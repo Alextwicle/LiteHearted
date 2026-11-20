@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "redstone",
+  "pattern": [
+    " F ",
+    " C ",
+    " B "
+  ],
+  "key": {
+    "F": "energizedpower:advanced_machine_frame",
+    "C": "polyfactory:axle",
+    "B": "polyfactory:drain"
+  },
+  "result": {
+    "id": "polyfactory:mechanical_drain"
+  }
+}

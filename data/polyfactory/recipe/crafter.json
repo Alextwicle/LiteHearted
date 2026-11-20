@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": "polyfactory:axle",
+    "i": "polyfactory:steel_gear",
+    "s": "minecraft:crafting_table",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "iai", "wsw", "www" ],
+  "result": { "id": "polyfactory:crafter" }
+}

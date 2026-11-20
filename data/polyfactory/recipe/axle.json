@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "s": "energizedpower:steel_ingot",
+    "w": "#c:stripped_logs"
+  },
+  "pattern": [ "www", "sss", "www" ],
+  "result": {
+    "count": 8,
+    "id": "polyfactory:axle"
+  }
+}

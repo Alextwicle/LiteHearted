@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "p": "minecraft:paper",
+    "s": "energizedpower:steel_ingot"
+  },
+  "pattern": [ " s ", "sps", " s " ],
+  "result": { "id": "polyfactory:gauge" }
+}

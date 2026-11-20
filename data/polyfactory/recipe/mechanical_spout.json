@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "redstone",
+  "pattern": [
+    " F ",
+    "PCP",
+    "BSB"
+  ],
+  "key": {
+    "F": "energizedpower:advanced_machine_frame",
+    "C": "polyfactory:pipe",
+    "B": "#minecraft:planks",
+    "S": "minecraft:smooth_stone",
+    "P": "energizedpower:copper_plate"
+  },
+  "result": {
+    "id": "polyfactory:mechanical_spout"
+  }
+}

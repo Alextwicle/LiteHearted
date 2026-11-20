@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": "minecraft:deepslate_bricks",
+    "b": "minecraft:blast_furnace",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "www", "wbw", "aaa" ],
+  "result": { "id": "polyfactory:steam_engine" }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "p": "minecraft:potato",
+    "s": "energizedpower:steel_ingot",
+    "w": "polyfactory:wooden_plate"
+  },
+  "pattern": [ " p ", " s ", " w " ],
+  "result": { "id": "polyfactory:tiny_potato_spring" }
+}

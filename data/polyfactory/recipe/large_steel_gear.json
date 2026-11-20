@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [ "energizedpower:steel_ingot", "polyfactory:steel_gear" ],
+  "result": { "id": "polyfactory:large_steel_gear" }
+}

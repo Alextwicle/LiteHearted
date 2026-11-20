@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "redstone",
+  "pattern": [
+    "PFP",
+    "PCP",
+    "BPB"
+  ],
+  "key": {
+    "F": "energizedpower:hardened_machine_frame",
+    "C": "polyfactory:metal_grid",
+    "B": "minecraft:smooth_stone_slab",
+    "P": "energizedpower:steel_plate"
+  },
+  "result": {
+    "id": "polyfactory:trommel"
+  }
+}

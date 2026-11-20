@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": "energizedpower:steel_ingot",
+    "w": "polyfactory:wooden_plate"
+  },
+  "pattern": [ "www", "wsw", "www" ],
+  "result": { "id": "polyfactory:wooden_container" }
+}

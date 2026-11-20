@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "minecraft:copper_ingot",
+    "d": "minecraft:diamond",
+    "e": "polyfactory:ender_infused_amethyst_shard",
+    "p": "energizedpower:steel_plate",
+    "s": "polyfactory:integrated_circuit"
+  },
+  "pattern": [ "pdp", "ese", "pcp" ],
+  "result": { "id": "polyfactory:hologram_projector" }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": "polyfactory:axle",
+    "g": "polyfactory:steel_gear",
+    "i": "polyfactory:wooden_plate",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "iii", "wgw", "waw" ],
+  "result": { "id": "polyfactory:ejector" }
+}

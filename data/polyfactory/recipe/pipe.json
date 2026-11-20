@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"redstone","key":{"i":"minecraft:copper_ingot","p":"energizedpower:copper_plate"},"pattern":["ppp","i i","ppp"],"result":{"count":3,"id":"polyfactory:pipe"}}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"redstone","key":{"c":"energizedpower:copper_plate","g":"minecraft:gold_nugget","p":"polyfactory:wooden_plate","q":"minecraft:quartz","r":"polyfactory:redstone_chip","t":"polyfactory:treated_dried_kelp"},"pattern":["qtq","cpr","ggg"],"result":{"id":"polyfactory:integrated_circuit"}}

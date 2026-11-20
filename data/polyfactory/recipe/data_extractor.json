@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "-": "polyfactory:redstone_chip",
+    "c": "minecraft:lapis_lazuli",
+    "s": "energizedpower:steel_plate",
+    "w": "polyfactory:cable"
+  },
+  "pattern": [ "csc", "s-s", "cwc" ],
+  "result": { "id": "polyfactory:data_extractor" }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "o": "#minecraft:wool",
+    "p": "polyfactory:wooden_plate",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "wp ", " o ", "wp " ],
+  "result": { "id": "polyfactory:funnel" }
+}

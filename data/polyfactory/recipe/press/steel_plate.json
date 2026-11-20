@@ -1,0 +1,6 @@
+{
+  "type": "polyfactory:press/generic",
+  "input_a": { "base": "energizedpower:steel_ingot" },
+  "minimum_speed": 8.5,
+  "output": { "item": { "id": "energizedpower:steel_plate" } }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "f": "polyfactory:funnel",
+    "s": "energizedpower:steel_plate",
+    "x": "polyfactory:redstone_chip"
+  },
+  "pattern": [ "sss", "fxf", "sss" ],
+  "result": { "id": "polyfactory:splitter" }
+}

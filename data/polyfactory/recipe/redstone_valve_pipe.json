@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "p": "polyfactory:pipe",
+    "r": "minecraft:redstone",
+    "s": "minecraft:smooth_stone_slab",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "rsr", "pwp", "rsr" ],
+  "result": { "id": "polyfactory:redstone_valve_pipe" }
+}

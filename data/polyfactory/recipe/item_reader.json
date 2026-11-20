@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "b": "polyfactory:redstone_chip",
+    "c": "minecraft:copper_ingot",
+    "l": "minecraft:lectern",
+    "p": "polyfactory:wooden_plate",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ "plp", "sbs", "scs" ],
+  "result": { "id": "polyfactory:item_reader" }
+}

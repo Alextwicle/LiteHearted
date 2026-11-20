@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"redstone","key":{"c":"minecraft:copper_block","g":"minecraft:tinted_glass","p":"energizedpower:copper_plate"},"pattern":["pgp","gcg","pgp"],"result":{"id":"polyfactory:fluid_tank"}}

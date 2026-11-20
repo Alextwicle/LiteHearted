@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "-": "polyfactory:integrated_circuit",
+    "c": "minecraft:copper_ingot",
+    "s": "energizedpower:steel_plate",
+    "w": "polyfactory:cable"
+  },
+  "pattern": [ "csc", "s-s", "cwc" ],
+  "result": { "id": "polyfactory:arithmetic_operator" }
+}

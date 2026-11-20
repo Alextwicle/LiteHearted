@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": "polyfactory:miner",
+    "g": "minecraft:gold_block",
+    "i": "polyfactory:integrated_circuit",
+    "s": "polyfactory:steel_gear",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "wsw", "gig", "waw" ],
+  "result": { "id": "polyfactory:placer" }
+}

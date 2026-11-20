@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": "polyfactory:axle",
+    "i": "minecraft:iron_bars",
+    "s": "minecraft:iron_ingot",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "iii", "wsw", "waw" ],
+  "result": { "id": "polyfactory:fan" }
+}

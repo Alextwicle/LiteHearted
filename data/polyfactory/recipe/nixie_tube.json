@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "minecraft:copper_ingot",
+    "g": "minecraft:glass_pane",
+    "p": "polyfactory:wooden_plate",
+    "s": "energizedpower:steel_ingot"
+  },
+  "pattern": [ " g ", "gsg", "cpc" ],
+  "result": { "id": "polyfactory:nixie_tube" }
+}

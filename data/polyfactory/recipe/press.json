@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "redstone",
+  "pattern": [
+    " F ",
+    "PCP",
+    "BSB"
+  ],
+  "key": {
+    "F": "energizedpower:hardened_machine_frame",
+    "C": "minecraft:anvil",
+    "B": "#minecraft:planks",
+    "S": "minecraft:smooth_stone",
+    "P": "energizedpower:steel_ingot"
+  },
+  "result": {
+    "id": "polyfactory:press"
+  }
+}

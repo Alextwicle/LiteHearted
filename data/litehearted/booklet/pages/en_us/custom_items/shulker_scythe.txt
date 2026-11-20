@@ -1,0 +1,8 @@
+### Section: PageInfo
+title=Shulker Scythe
+category=litehearted:custom_items
+icon=polyfactory:guidebook
+order=80
+### EndSection: PageInfo
+### Header: Obtaining
+You can create the shulker scythe with a netherite scythe enderite upgrade template and 4 shulker shells

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "polyfactory:redstone_chip",
+    "f": "polyfactory:funnel",
+    "g": "minecraft:gold_ingot",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ "gcg", "sfs", "gsg" ],
+  "result": { "id": "polyfactory:slot_aware_funnel" }
+}

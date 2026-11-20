@@ -1,0 +1,9 @@
+{
+  "type": "polyfactory:press/generic",
+  "input_a": {
+    "base": "minecraft:copper_ingot",
+    "count": 2
+  },
+  "minimum_speed": 8.5,
+  "output": { "item": { "id": "energizedpower:copper_plate" } }
+}

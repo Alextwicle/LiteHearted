@@ -1,0 +1,17 @@
+{
+	"unlocked_by_default": true,
+	"title": "Skills",
+	"exclusive_root": true,
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "skill_tree_rpgs:textures/gui/icon.png"
+		}
+	},
+	"background": {
+		"texture": "skill_tree_rpgs:textures/gui/background_6_b.png",
+		"width": 768,
+		"height": 463,
+		"position": "fill"
+	}
+}

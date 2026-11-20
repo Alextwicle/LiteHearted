@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "g": "polyfactory:treated_dried_kelp",
+    "p": "polyfactory:pipe",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ " w ", "pgp", " w " ],
+  "result": { "id": "polyfactory:filtered_pipe" }
+}

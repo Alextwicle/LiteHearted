@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "c": "energizedpower:copper_plate",
+    "f": "polyfactory:diesel_engine",
+    "i": "energizedpower:steel_ingot",
+    "s": "energizedpower:steel_plate",
+    "t": "polyfactory:treated_dried_kelp"
+  },
+  "pattern": [ "it ", "tfc", " cs" ],
+  "result": { "id": "polyfactory:portable_drill" }
+}

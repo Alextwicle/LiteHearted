@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": "polyfactory:steel_block",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "www", "wsw", "www" ],
+  "result": { "id": "polyfactory:deep_storage_container" }
+}

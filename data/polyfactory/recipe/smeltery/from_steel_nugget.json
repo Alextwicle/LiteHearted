@@ -1,0 +1,10 @@
+{
+  "type": "polyfactory:smeltery/simple",
+  "group": "polyfactory_steel",
+  "input": "energizedpower:steel_nugget",
+  "output": {
+    "type": "polyfactory:steel",
+    "amount": 1000
+  },
+  "time": 17
+}

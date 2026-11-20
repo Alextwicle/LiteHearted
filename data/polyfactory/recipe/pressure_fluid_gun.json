@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "i": "minecraft:netherite_ingot",
+    "n": "polyfactory:nozzle",
+    "p": "polyfactory:pipe",
+    "s": "energizedpower:steel_plate",
+    "w": "polyfactory:wooden_plate"
+  },
+  "pattern": [ "ipn", "sw " ],
+  "result": { "id": "polyfactory:pressure_fluid_gun" }
+}

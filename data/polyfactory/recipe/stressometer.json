@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "energizedpower:steel_plate",
+    "-": "polyfactory:axle",
+    "=": "#minecraft:planks",
+    "c": "minecraft:gold_ingot"
+  },
+  "pattern": [ "#c#", "-=-", "#c#" ],
+  "result": { "id": "polyfactory:stressometer" }
+}

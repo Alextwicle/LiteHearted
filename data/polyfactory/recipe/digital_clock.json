@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "-": "minecraft:clock",
+    "b": "polyfactory:redstone_chip",
+    "c": "polyfactory:cable",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ "c-c", "sbs", "scs" ],
+  "result": { "id": "polyfactory:digital_clock" }
+}

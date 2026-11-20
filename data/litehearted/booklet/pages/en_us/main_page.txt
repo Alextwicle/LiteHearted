@@ -1,0 +1,12 @@
+### Section: PageInfo
+title=Akasha
+description=Your Guide To The Worlds Inner Workings.
+category=litehearted:main_page
+icon=polyfactory:guidebook
+book_color=0xFFAAAA
+### EndSection: PageInfo
+### Header: Special Mechanics
+### Category Entries: litehearted:special_mechanics
+
+### Header: Custom Items
+### Category Entries: litehearted:custom_items

@@ -8,4 +8,4 @@ execute at @a run execute as @a[scores={skyspawn_prot=1..}] run execute if block
 execute at @a run execute as @a[scores={skyspawn_prot=1..}] run execute unless block ~ ~-1 ~ air run scoreboard players set @s skyspawn_prot 0
 
 #Schedule a second run on the function
-schedule function litehearted:skyspawn_prot 1s replace
+schedule function litehearted:skyspawn_prot 5s replace

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "b": "polyfactory:redstone_chip",
+    "g": "polyfactory:steel_gear",
+    "p": "#minecraft:planks",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ "sgs", "pbp", "sgs" ],
+  "result": { "id": "polyfactory:planter" }
+}

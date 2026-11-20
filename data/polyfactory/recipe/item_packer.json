@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "h": "minecraft:hopper",
+    "s": "energizedpower:steel_plate",
+    "w": "polyfactory:wooden_plate"
+  },
+  "pattern": [ "wsw", "shs", "wsw" ],
+  "result": { "id": "polyfactory:item_packer" }
+}

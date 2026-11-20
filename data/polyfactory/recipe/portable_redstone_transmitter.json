@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [ "energizedpower:steel_plate", "polyfactory:integrated_circuit", "polyfactory:ender_infused_amethyst_shard", "minecraft:copper_ingot" ],
+  "result": { "id": "polyfactory:portable_redstone_transmitter" }
+}

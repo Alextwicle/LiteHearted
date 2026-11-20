@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": "polyfactory:axle",
+    "b": "minecraft:blast_furnace",
+    "c": "polyfactory:pipe",
+    "p": "minecraft:piston",
+    "w": "energizedpower:steel_plate"
+  },
+  "pattern": [ "wpw", "abc", "wpw" ],
+  "result": { "id": "polyfactory:diesel_engine" }
+}

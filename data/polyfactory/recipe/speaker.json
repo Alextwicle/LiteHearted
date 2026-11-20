@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "-": "minecraft:note_block",
+    "b": "polyfactory:redstone_chip",
+    "c": "minecraft:copper_ingot",
+    "s": "energizedpower:steel_plate"
+  },
+  "pattern": [ "c-c", "sbs", "scs" ],
+  "result": { "id": "polyfactory:speaker" }
+}

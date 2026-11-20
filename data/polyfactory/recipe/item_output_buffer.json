@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": "energizedpower:steel_plate",
+    "w": "polyfactory:wooden_plate"
+  },
+  "pattern": [ "sws", "w w", "sws" ],
+  "result": { "id": "polyfactory:item_output_buffer" }
+}

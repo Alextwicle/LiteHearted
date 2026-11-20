@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "minecraft:copper_ingot",
+    "r": "polyfactory:redstone_chip",
+    "s": "energizedpower:steel_plate",
+    "w": "polyfactory:wrench"
+  },
+  "pattern": [ "sws", "crc", "scs" ],
+  "result": { "id": "polyfactory:configurator" }
+}

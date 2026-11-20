@@ -1,0 +1,15 @@
+{
+  "type": "polyfactory:casting/simple",
+  "cooling_ticks": 60.0,
+  "fluid_input": {
+    "type": "polyfactory:steel",
+    "amount": 1000
+  },
+  "item": {
+    "base": "#polyfactory:mold/nugget",
+    "count": 0
+  },
+  "item_damage": 1,
+  "result": { "id": "energizedpower:steel_nugget" },
+  "time": 3.3333333333333335
+}

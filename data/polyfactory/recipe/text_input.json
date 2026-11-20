@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "-": "minecraft:light_weighted_pressure_plate",
+    "b": "polyfactory:redstone_chip",
+    "c": "polyfactory:cable",
+    "p": "minecraft:iron_ingot",
+    "s": "energizedpower:steel_plate",
+    "t": "polyfactory:treated_dried_kelp"
+  },
+  "pattern": [ "s-s", "pbt", "scs" ],
+  "result": { "id": "polyfactory:text_input" }
+}

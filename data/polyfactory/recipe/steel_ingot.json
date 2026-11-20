@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 80,
+  "experience": 0.4,
+  "ingredient": "polyfactory:steel_alloy_mixture",
+  "result": { "id": "energizedpower:steel_ingot" }
+}

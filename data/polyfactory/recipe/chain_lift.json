@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": "minecraft:iron_chain",
+    "p": "energizedpower:steel_plate",
+    "s": "energizedpower:steel_ingot"
+  },
+  "pattern": [ "csc", "c c", "ppp" ],
+  "result": { "id": "polyfactory:chain_lift" }
+}
