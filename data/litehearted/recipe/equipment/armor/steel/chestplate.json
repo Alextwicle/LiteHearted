@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": "energizedpower:steel_ingot"
+    },
+    "result": {
+        "id": "minecraft:iron_chestplate",
+        "count": 1,
+      "components": {
+        "minecraft:item_model": "litehearted:steel_chestplate",
+        "minecraft:custom_data": {
+          "stellarity:item": "steel_chestplate" 
+        },
+        "minecraft:max_damage": 250,
+        "minecraft:attribute_modifiers": [
+          {
+            "id": "b35bba76-c513-4673-8598-8faf4f3c5bb6",
+            "type": "armor",
+            "amount": 6,
+            "operation": "add_value",
+            "slot": "chest"
+          },
+          {
+            "id": "7b4f1880-8e5e-4c37-a838-a2c4dd0e72b8",
+            "type": "armor_toughness",
+            "amount": 0.5,
+            "operation": "add_value",
+            "slot": "chest"
+          }
+        ],
+        "minecraft:equippable": {
+          "slot": "chest",
+          "asset_id": "litehearted:steel_armor",
+          "damage_on_hurt": true,
+          "equip_sould": "minecraft:item.armor.equip_iron"
+        },
+        "minecraft:custom_name": {
+          "text": "Steel Chestplate",
+          "italic": false
+        }
+      }
+    }
+}

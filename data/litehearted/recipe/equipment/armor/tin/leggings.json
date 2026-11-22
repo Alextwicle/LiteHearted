@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": "energizedpower:tin_ingot"
+    },
+    "result": {
+        "id": "minecraft:iron_leggings",
+        "count": 1,
+      "components": {
+         "minecraft:item_model": "litehearted:tin_leggings",
+        "minecraft:max_damage": 165,
+        "minecraft:attribute_modifiers": [
+          {
+            "id": "5ab8a4d9-2374-43f4-8dbd-7f798924f965",
+            "type": "armor",
+            "amount": 3.0,
+            "operation": "add_value",
+            "slot": "legs"
+          },
+          {
+            "id": "4d43abbc-e52c-43ec-a1f5-c39c05888193",
+            "type": "spell_power:generic",
+            "amount": 0.5,
+            "operation": "add_value",
+            "slot": "legs"
+          }
+        ],
+        "minecraft:equippable": {
+          "slot": "legs",
+          "asset_id": "litehearted:tin_armor",
+          "damage_on_hurt": true,
+          "equip_sould": "minecraft:item.armor.equip_copper"
+        },
+        "minecraft:custom_data": {
+          "stellarity:item": "tin_leggings"
+        },
+        "minecraft:custom_name": {
+          "text": "Tin Leggings",
+          "italic": false
+        }
+      }
+    }
+}

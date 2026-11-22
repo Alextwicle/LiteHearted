@@ -1,0 +1,9 @@
+{
+  "block.polyfactory.wall_with_cable": "%s with Data Cable",
+  "block.polyfactory.wall_with_cable.colored": "%s with %s Data Cable",
+  "block.polyfactory.wall_with_cable.colored.full": "%s with %s Data Cable (%s)",
+  "block.polyfactory.cable": "Data Cable",
+  "block.polyfactory.cable.colored": "%s Data Cable",
+  "block.polyfactory.cable.colored.full": "%s Data Cable (%s)",
+  "block.polyfactory.gated_cable": "Gated Data Cable"
+}

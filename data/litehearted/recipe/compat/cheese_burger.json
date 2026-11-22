@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " C ",
+        " # "
+    ],
+  "key": {
+    "#": "farmersdelight:hamburger",
+    "C": "polyfactory:cheese_wedge"
+  },
+  "result": {
+    "id": "farmersdelight:hamburger",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "litehearted:cheese_burger",
+      "minecraft:custom_data": {
+        "stellarity:item": "cheese_burger"
+      },
+      "minecraft:custom_name": {
+        "text": "Cheese Burger",
+        "italic": false
+      }
+    }
+  }
+}

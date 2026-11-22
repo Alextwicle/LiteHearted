@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": "energizedpower:steel_ingot"
+    },
+    "result": {
+        "id": "minecraft:iron_leggings",
+        "count": 1,
+      "components": {
+         "minecraft:item_model": "litehearted:steel_leggings",
+        "minecraft:max_damage": 235,
+        "minecraft:attribute_modifiers": [
+          {
+            "id": "5ab8a4d9-2374-43f4-8dbd-7f798924f965",
+            "type": "armor",
+            "amount": 5.0,
+            "operation": "add_value",
+            "slot": "legs"
+          },
+          {
+            "id": "4d43abbc-e52c-43ec-a1f5-c39c05888193",
+            "type": "armor_toughness",
+            "amount": 0.5,
+            "operation": "add_value",
+            "slot": "legs"
+          }
+        ],
+        "minecraft:equippable": {
+          "slot": "legs",
+          "asset_id": "litehearted:steel_armor",
+          "damage_on_hurt": true,
+          "equip_sould": "minecraft:item.armor.equip_iron"
+        },
+        "minecraft:custom_data": {
+          "stellarity:item": "steel_leggings"
+        },
+        "minecraft:custom_name": {
+          "text": "Steel Leggings",
+          "italic": false
+        }
+      }
+    }
+}

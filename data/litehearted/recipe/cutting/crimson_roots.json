@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    "minecraft:nether_wart_block"
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 9,
+        "id": "minecraft:crimson_roots"
+      }
+    }
+  ],
+  "tool": "#c:tools/knife"
+}

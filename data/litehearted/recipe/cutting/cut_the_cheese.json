@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    "polyfactory:cheese_wheel"
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 7,
+        "id": "polyfactory:cheese_wedge"
+      }
+    }
+  ],
+  "tool": "#c:tools/knife"
+}

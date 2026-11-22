@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "litehearted:item/steel_leggings",
+    "layer1": "litehearted:item/steel_leggings"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    "minecraft:warped_wart_block"
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 9,
+        "id": "minecraft:warped_roots"
+      }
+    }
+  ],
+  "tool": "#c:tools/knife"
+}
