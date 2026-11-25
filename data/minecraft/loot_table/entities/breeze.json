@@ -41,7 +41,7 @@
               "unenchanted_chance": 0.20,
               "enchanted_chance": {
                 "type": "minecraft:linear",
-                "base": 0.8,
+                "base": 0.08,
                 "per_level_above_first": 0.5
               }
             }
